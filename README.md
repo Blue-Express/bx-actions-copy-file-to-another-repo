@@ -1,4 +1,4 @@
-# copy_file_to_another_repo_action
+# bx-actions-copy-file-to-another-repo
 This GitHub Action copies a file from the current repository to a location in another repository
 
 # Example Workflow en Repo [bx_templates](https://github.com/Blue-Express/bx_templates/blob/blue/.github/workflows/tmpl-repo-sync-env.yml)
